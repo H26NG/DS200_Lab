@@ -1,0 +1,23 @@
+=====================================================================================
+Tên phim                                                          Avg Rating  Số lượt
+=====================================================================================
+Sunset Boulevard (1950)                                                 4.36        7
+The Terminator (1984)                                                   4.06       18
+The Godfather: Part II (1974)                                           4.00       17
+No Country for Old Men (2007)                                           3.89       18
+The Lord of the Rings: The Fellowship of the Ring (2001)                3.89       18
+The Social Network (2010)                                               3.86        7
+The Lord of the Rings: The Return of the King (2003)                    3.82       11
+E.T. the Extra-Terrestrial (1982)                                       3.67       18
+Gladiator (2000)                                                        3.61       18
+Fight Club (1999)                                                       3.50        7
+Mad Max: Fury Road (2015)                                               3.47       18
+Lawrence of Arabia (1962)                                               3.44       18
+The Silence of the Lambs (1991)                                         3.14        7
+
+=====================================================================================
+Phim có điểm trung bình cao nhất trong nhóm có ít nhất 5 lượt đánh giá:
+Tên phim: Sunset Boulevard (1950)
+Điểm trung bình: 4.36
+Số lượt đánh giá: 7
+=====================================================================================
