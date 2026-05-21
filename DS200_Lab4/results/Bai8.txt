@@ -1,0 +1,19 @@
+Đánh giá hiệu suất giao hàng 
+(Hiệu số = Ngày giao thực tế - Ngày giao dự kiến)
+(Âm = giao sớm, 0 = đúng hạn, Dương = giao trễ)
+
+Tổng đơn hàng đã giao:   111456
+Giao sớm:                97187
+Đúng hạn:                7599
+Giao trễ:                6670
+Hiệu số trung bình:      -3.44 ngày
+
+Phân bố theo trạng thái
++----------+--------+---------------+
+|Trang_Thai|So_Luong|TB_Hieu_So_Ngay|
++----------+--------+---------------+
+|Dung han  |7599    |0.0            |
+|Giao som  |97187   |-4.26          |
+|Giao tre  |6670    |4.67           |
++----------+--------+---------------+
+

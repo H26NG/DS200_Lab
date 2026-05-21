@@ -1,0 +1,4 @@
+Thống kê tổng quan 
+Tổng số đơn hàng:      99441
+Số lượng khách hàng:    99382
+Số lượng người bán:     3095
