@@ -1,0 +1,8276 @@
+[
+  {
+    "camera_id": "H26NG",
+    "frame_id": 415,
+    "source_timestamp": 1781577490.9525702,
+    "processed_timestamp": 1781577490.8573928,
+    "processing_time_ms": 93.38,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9293,
+        "bbox": {
+          "x1": 142,
+          "y1": 151,
+          "x2": 529,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577490.878288
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 414,
+    "source_timestamp": 1781577490.451958,
+    "processed_timestamp": 1781577490.3429685,
+    "processing_time_ms": 110.31,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9324,
+        "bbox": {
+          "x1": 143,
+          "y1": 152,
+          "x2": 531,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577490.363243
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 413,
+    "source_timestamp": 1781577489.9511738,
+    "processed_timestamp": 1781577489.827546,
+    "processing_time_ms": 121.85,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9372,
+        "bbox": {
+          "x1": 144,
+          "y1": 152,
+          "x2": 531,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577489.8475895
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 412,
+    "source_timestamp": 1781577489.4506958,
+    "processed_timestamp": 1781577489.2720554,
+    "processing_time_ms": 98.25,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9353,
+        "bbox": {
+          "x1": 144,
+          "y1": 151,
+          "x2": 531,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577489.290759
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 411,
+    "source_timestamp": 1781577488.9501283,
+    "processed_timestamp": 1781577488.7426536,
+    "processing_time_ms": 98.42,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.932,
+        "bbox": {
+          "x1": 143,
+          "y1": 152,
+          "x2": 530,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577488.7635207
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 410,
+    "source_timestamp": 1781577488.449454,
+    "processed_timestamp": 1781577488.2049243,
+    "processing_time_ms": 94.76,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9367,
+        "bbox": {
+          "x1": 144,
+          "y1": 153,
+          "x2": 530,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577488.2231555
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 409,
+    "source_timestamp": 1781577487.9486253,
+    "processed_timestamp": 1781577487.678021,
+    "processing_time_ms": 96.35,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9304,
+        "bbox": {
+          "x1": 141,
+          "y1": 153,
+          "x2": 531,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577487.696477
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 408,
+    "source_timestamp": 1781577487.4492636,
+    "processed_timestamp": 1781577487.2621994,
+    "processing_time_ms": 128.12,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.932,
+        "bbox": {
+          "x1": 142,
+          "y1": 152,
+          "x2": 534,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577487.2890902
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 407,
+    "source_timestamp": 1781577486.9486394,
+    "processed_timestamp": 1781577487.0989776,
+    "processing_time_ms": 572.09,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9371,
+        "bbox": {
+          "x1": 147,
+          "y1": 149,
+          "x2": 534,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577487.1301644
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 406,
+    "source_timestamp": 1781577486.4471405,
+    "processed_timestamp": 1781577486.2376833,
+    "processing_time_ms": 242.83,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9365,
+        "bbox": {
+          "x1": 146,
+          "y1": 149,
+          "x2": 534,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577486.2620835
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 405,
+    "source_timestamp": 1781577485.946397,
+    "processed_timestamp": 1781577485.6491723,
+    "processing_time_ms": 185.04,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9335,
+        "bbox": {
+          "x1": 146,
+          "y1": 149,
+          "x2": 534,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577485.6749256
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 404,
+    "source_timestamp": 1781577485.446257,
+    "processed_timestamp": 1781577485.0265985,
+    "processing_time_ms": 89.25,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9354,
+        "bbox": {
+          "x1": 146,
+          "y1": 149,
+          "x2": 534,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577485.0440643
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 403,
+    "source_timestamp": 1781577484.9460194,
+    "processed_timestamp": 1781577484.4936864,
+    "processing_time_ms": 78.81,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9332,
+        "bbox": {
+          "x1": 145,
+          "y1": 148,
+          "x2": 534,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577484.5134068
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 402,
+    "source_timestamp": 1781577484.445338,
+    "processed_timestamp": 1781577483.9835515,
+    "processing_time_ms": 90.17,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9352,
+        "bbox": {
+          "x1": 146,
+          "y1": 149,
+          "x2": 534,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577484.002328
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 401,
+    "source_timestamp": 1781577483.9445164,
+    "processed_timestamp": 1781577483.4644148,
+    "processing_time_ms": 96.75,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9349,
+        "bbox": {
+          "x1": 145,
+          "y1": 149,
+          "x2": 535,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577483.4828541
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 400,
+    "source_timestamp": 1781577483.4443245,
+    "processed_timestamp": 1781577482.9443564,
+    "processing_time_ms": 96.14,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9355,
+        "bbox": {
+          "x1": 146,
+          "y1": 149,
+          "x2": 534,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577482.9650345
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 399,
+    "source_timestamp": 1781577482.9438097,
+    "processed_timestamp": 1781577482.4079995,
+    "processing_time_ms": 80.94,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9387,
+        "bbox": {
+          "x1": 146,
+          "y1": 149,
+          "x2": 534,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577482.4274447
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 398,
+    "source_timestamp": 1781577482.4443061,
+    "processed_timestamp": 1781577481.8979845,
+    "processing_time_ms": 90.67,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.937,
+        "bbox": {
+          "x1": 145,
+          "y1": 149,
+          "x2": 534,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577481.9162104
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 397,
+    "source_timestamp": 1781577481.9436002,
+    "processed_timestamp": 1781577481.3808007,
+    "processing_time_ms": 96.25,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9359,
+        "bbox": {
+          "x1": 145,
+          "y1": 149,
+          "x2": 534,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577481.4000509
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 396,
+    "source_timestamp": 1781577481.4426343,
+    "processed_timestamp": 1781577480.8725843,
+    "processing_time_ms": 107.69,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9383,
+        "bbox": {
+          "x1": 145,
+          "y1": 149,
+          "x2": 535,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577480.8935413
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 395,
+    "source_timestamp": 1781577480.9411104,
+    "processed_timestamp": 1781577480.3391542,
+    "processing_time_ms": 98.0,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9371,
+        "bbox": {
+          "x1": 145,
+          "y1": 149,
+          "x2": 535,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577480.357162
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 394,
+    "source_timestamp": 1781577480.441065,
+    "processed_timestamp": 1781577479.8321717,
+    "processing_time_ms": 109.81,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9384,
+        "bbox": {
+          "x1": 145,
+          "y1": 149,
+          "x2": 534,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577479.851598
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 393,
+    "source_timestamp": 1781577479.9438202,
+    "processed_timestamp": 1781577479.3348796,
+    "processing_time_ms": 130.09,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9389,
+        "bbox": {
+          "x1": 145,
+          "y1": 149,
+          "x2": 534,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577479.3608592
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 392,
+    "source_timestamp": 1781577479.440671,
+    "processed_timestamp": 1781577478.791166,
+    "processing_time_ms": 110.93,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9385,
+        "bbox": {
+          "x1": 145,
+          "y1": 149,
+          "x2": 535,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577478.8118742
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 391,
+    "source_timestamp": 1781577478.9403422,
+    "processed_timestamp": 1781577478.2621417,
+    "processing_time_ms": 104.55,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9369,
+        "bbox": {
+          "x1": 145,
+          "y1": 148,
+          "x2": 536,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577478.2806551
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 390,
+    "source_timestamp": 1781577478.4399729,
+    "processed_timestamp": 1781577477.7200773,
+    "processing_time_ms": 82.95,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9359,
+        "bbox": {
+          "x1": 145,
+          "y1": 149,
+          "x2": 534,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577477.7390068
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 389,
+    "source_timestamp": 1781577477.9387743,
+    "processed_timestamp": 1781577477.2385635,
+    "processing_time_ms": 121.53,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9373,
+        "bbox": {
+          "x1": 146,
+          "y1": 150,
+          "x2": 534,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577477.2609587
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 388,
+    "source_timestamp": 1781577477.4380226,
+    "processed_timestamp": 1781577476.665733,
+    "processing_time_ms": 73.22,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.937,
+        "bbox": {
+          "x1": 145,
+          "y1": 149,
+          "x2": 533,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577476.6834543
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 387,
+    "source_timestamp": 1781577476.9383757,
+    "processed_timestamp": 1781577476.1857276,
+    "processing_time_ms": 112.57,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9383,
+        "bbox": {
+          "x1": 145,
+          "y1": 149,
+          "x2": 535,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577476.2094457
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 386,
+    "source_timestamp": 1781577476.4514868,
+    "processed_timestamp": 1781577475.6716156,
+    "processing_time_ms": 104.85,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9345,
+        "bbox": {
+          "x1": 144,
+          "y1": 149,
+          "x2": 534,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577475.6920552
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 385,
+    "source_timestamp": 1781577475.9477484,
+    "processed_timestamp": 1781577475.2124493,
+    "processing_time_ms": 167.58,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9347,
+        "bbox": {
+          "x1": 145,
+          "y1": 149,
+          "x2": 536,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577475.2315326
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 383,
+    "source_timestamp": 1781577474.951005,
+    "processed_timestamp": 1781577475.325876,
+    "processing_time_ms": 99.2,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9382,
+        "bbox": {
+          "x1": 145,
+          "y1": 149,
+          "x2": 534,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577475.0879388
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 382,
+    "source_timestamp": 1781577474.443695,
+    "processed_timestamp": 1781577474.8087087,
+    "processing_time_ms": 109.43,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9387,
+        "bbox": {
+          "x1": 145,
+          "y1": 149,
+          "x2": 535,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577474.8311427
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 384,
+    "source_timestamp": 1781577475.4407203,
+    "processed_timestamp": 1781577474.6180809,
+    "processing_time_ms": 99.73,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9373,
+        "bbox": {
+          "x1": 145,
+          "y1": 149,
+          "x2": 534,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577474.6372263
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 381,
+    "source_timestamp": 1781577473.938022,
+    "processed_timestamp": 1781577474.2661724,
+    "processing_time_ms": 95.88,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.938,
+        "bbox": {
+          "x1": 145,
+          "y1": 149,
+          "x2": 535,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577474.284654
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 380,
+    "source_timestamp": 1781577473.4443579,
+    "processed_timestamp": 1781577473.7547224,
+    "processing_time_ms": 98.92,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.938,
+        "bbox": {
+          "x1": 145,
+          "y1": 148,
+          "x2": 535,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577473.7744577
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 379,
+    "source_timestamp": 1781577472.9470077,
+    "processed_timestamp": 1781577473.2389126,
+    "processing_time_ms": 102.74,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9365,
+        "bbox": {
+          "x1": 145,
+          "y1": 149,
+          "x2": 534,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577473.2594476
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 378,
+    "source_timestamp": 1781577472.4397876,
+    "processed_timestamp": 1781577472.7051442,
+    "processing_time_ms": 95.81,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9392,
+        "bbox": {
+          "x1": 145,
+          "y1": 149,
+          "x2": 534,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577472.7241344
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 377,
+    "source_timestamp": 1781577471.9470913,
+    "processed_timestamp": 1781577472.181598,
+    "processing_time_ms": 88.8,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9386,
+        "bbox": {
+          "x1": 145,
+          "y1": 149,
+          "x2": 535,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577472.1994052
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 376,
+    "source_timestamp": 1781577471.4454577,
+    "processed_timestamp": 1781577471.6585093,
+    "processing_time_ms": 91.47,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9356,
+        "bbox": {
+          "x1": 145,
+          "y1": 148,
+          "x2": 535,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577471.6783435
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 375,
+    "source_timestamp": 1781577470.934048,
+    "processed_timestamp": 1781577471.1915686,
+    "processing_time_ms": 152.3,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9366,
+        "bbox": {
+          "x1": 144,
+          "y1": 149,
+          "x2": 534,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577471.2120867
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 374,
+    "source_timestamp": 1781577470.439717,
+    "processed_timestamp": 1781577470.6707642,
+    "processing_time_ms": 152.02,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9353,
+        "bbox": {
+          "x1": 144,
+          "y1": 149,
+          "x2": 535,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577470.7017043
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 373,
+    "source_timestamp": 1781577469.932436,
+    "processed_timestamp": 1781577470.0954661,
+    "processing_time_ms": 103.3,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9363,
+        "bbox": {
+          "x1": 144,
+          "y1": 149,
+          "x2": 535,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577470.117335
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 372,
+    "source_timestamp": 1781577469.4423418,
+    "processed_timestamp": 1781577469.5785263,
+    "processing_time_ms": 98.76,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9337,
+        "bbox": {
+          "x1": 144,
+          "y1": 148,
+          "x2": 536,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577469.6134045
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 371,
+    "source_timestamp": 1781577468.9299798,
+    "processed_timestamp": 1781577469.032054,
+    "processing_time_ms": 89.15,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9332,
+        "bbox": {
+          "x1": 140,
+          "y1": 149,
+          "x2": 536,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577469.052469
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 370,
+    "source_timestamp": 1781577468.4364986,
+    "processed_timestamp": 1781577468.526972,
+    "processing_time_ms": 98.73,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9316,
+        "bbox": {
+          "x1": 141,
+          "y1": 148,
+          "x2": 537,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577468.5473626
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 369,
+    "source_timestamp": 1781577467.9429452,
+    "processed_timestamp": 1781577468.0255501,
+    "processing_time_ms": 111.47,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9339,
+        "bbox": {
+          "x1": 140,
+          "y1": 148,
+          "x2": 536,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577468.0453005
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 368,
+    "source_timestamp": 1781577467.4378378,
+    "processed_timestamp": 1781577467.4728603,
+    "processing_time_ms": 88.07,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.929,
+        "bbox": {
+          "x1": 138,
+          "y1": 148,
+          "x2": 535,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577467.493536
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 367,
+    "source_timestamp": 1781577466.9312432,
+    "processed_timestamp": 1781577466.957552,
+    "processing_time_ms": 97.95,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9223,
+        "bbox": {
+          "x1": 137,
+          "y1": 148,
+          "x2": 534,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577466.9753907
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 366,
+    "source_timestamp": 1781577466.4384139,
+    "processed_timestamp": 1781577466.450626,
+    "processing_time_ms": 110.34,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9327,
+        "bbox": {
+          "x1": 138,
+          "y1": 154,
+          "x2": 530,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577466.4690876
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 365,
+    "source_timestamp": 1781577465.9256694,
+    "processed_timestamp": 1781577465.9854848,
+    "processing_time_ms": 175.87,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9285,
+        "bbox": {
+          "x1": 130,
+          "y1": 151,
+          "x2": 529,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577466.0040197
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 364,
+    "source_timestamp": 1781577465.4382033,
+    "processed_timestamp": 1781577465.413271,
+    "processing_time_ms": 113.08,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9389,
+        "bbox": {
+          "x1": 131,
+          "y1": 152,
+          "x2": 528,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577465.4374049
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 363,
+    "source_timestamp": 1781577464.9292912,
+    "processed_timestamp": 1781577464.8734539,
+    "processing_time_ms": 106.41,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9339,
+        "bbox": {
+          "x1": 131,
+          "y1": 152,
+          "x2": 529,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577464.891388
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 362,
+    "source_timestamp": 1781577464.423566,
+    "processed_timestamp": 1781577464.3455484,
+    "processing_time_ms": 104.2,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9362,
+        "bbox": {
+          "x1": 131,
+          "y1": 153,
+          "x2": 529,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577464.3648365
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 361,
+    "source_timestamp": 1781577463.9285877,
+    "processed_timestamp": 1781577463.824355,
+    "processing_time_ms": 102.77,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9372,
+        "bbox": {
+          "x1": 130,
+          "y1": 152,
+          "x2": 529,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577463.8463125
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 360,
+    "source_timestamp": 1781577463.4408016,
+    "processed_timestamp": 1781577463.3198066,
+    "processing_time_ms": 107.91,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9389,
+        "bbox": {
+          "x1": 130,
+          "y1": 152,
+          "x2": 529,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577463.3390536
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 359,
+    "source_timestamp": 1781577462.9311516,
+    "processed_timestamp": 1781577462.7975402,
+    "processing_time_ms": 117.87,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9377,
+        "bbox": {
+          "x1": 131,
+          "y1": 152,
+          "x2": 530,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577462.8175929
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 358,
+    "source_timestamp": 1781577462.423575,
+    "processed_timestamp": 1781577462.2477026,
+    "processing_time_ms": 97.32,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9347,
+        "bbox": {
+          "x1": 131,
+          "y1": 152,
+          "x2": 530,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577462.2668881
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 357,
+    "source_timestamp": 1781577461.934086,
+    "processed_timestamp": 1781577461.7729793,
+    "processing_time_ms": 91.37,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9355,
+        "bbox": {
+          "x1": 130,
+          "y1": 152,
+          "x2": 530,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577461.7929692
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 356,
+    "source_timestamp": 1781577461.4258687,
+    "processed_timestamp": 1781577461.2125945,
+    "processing_time_ms": 95.52,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9372,
+        "bbox": {
+          "x1": 130,
+          "y1": 152,
+          "x2": 530,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577461.2316468
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 355,
+    "source_timestamp": 1781577460.932279,
+    "processed_timestamp": 1781577460.7612836,
+    "processing_time_ms": 163.48,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9392,
+        "bbox": {
+          "x1": 130,
+          "y1": 152,
+          "x2": 530,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577460.781655
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 354,
+    "source_timestamp": 1781577460.424478,
+    "processed_timestamp": 1781577460.1751294,
+    "processing_time_ms": 105.95,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9387,
+        "bbox": {
+          "x1": 130,
+          "y1": 151,
+          "x2": 529,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577460.1953642
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 353,
+    "source_timestamp": 1781577459.9332316,
+    "processed_timestamp": 1781577459.6677551,
+    "processing_time_ms": 108.96,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9387,
+        "bbox": {
+          "x1": 131,
+          "y1": 151,
+          "x2": 530,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577459.687913
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 352,
+    "source_timestamp": 1781577459.4249635,
+    "processed_timestamp": 1781577459.1190743,
+    "processing_time_ms": 95.0,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9385,
+        "bbox": {
+          "x1": 131,
+          "y1": 152,
+          "x2": 529,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577459.1388881
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 351,
+    "source_timestamp": 1781577458.9354095,
+    "processed_timestamp": 1781577458.5932999,
+    "processing_time_ms": 78.62,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9366,
+        "bbox": {
+          "x1": 131,
+          "y1": 152,
+          "x2": 530,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577458.6126134
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 350,
+    "source_timestamp": 1781577458.4293714,
+    "processed_timestamp": 1781577458.0810835,
+    "processing_time_ms": 94.07,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9376,
+        "bbox": {
+          "x1": 130,
+          "y1": 152,
+          "x2": 530,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577458.101442
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 349,
+    "source_timestamp": 1781577457.9220214,
+    "processed_timestamp": 1781577457.57104,
+    "processing_time_ms": 109.89,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9407,
+        "bbox": {
+          "x1": 130,
+          "y1": 152,
+          "x2": 529,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577457.5904303
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 348,
+    "source_timestamp": 1781577457.4261742,
+    "processed_timestamp": 1781577457.0686204,
+    "processing_time_ms": 125.82,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9375,
+        "bbox": {
+          "x1": 130,
+          "y1": 152,
+          "x2": 529,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577457.0895288
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 347,
+    "source_timestamp": 1781577456.9198825,
+    "processed_timestamp": 1781577456.5284872,
+    "processing_time_ms": 111.94,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9378,
+        "bbox": {
+          "x1": 131,
+          "y1": 152,
+          "x2": 530,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577456.5483837
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 346,
+    "source_timestamp": 1781577456.428496,
+    "processed_timestamp": 1781577456.0169976,
+    "processing_time_ms": 108.57,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9377,
+        "bbox": {
+          "x1": 131,
+          "y1": 152,
+          "x2": 531,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577456.035996
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 345,
+    "source_timestamp": 1781577455.9234507,
+    "processed_timestamp": 1781577455.6159165,
+    "processing_time_ms": 235.87,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9382,
+        "bbox": {
+          "x1": 130,
+          "y1": 152,
+          "x2": 530,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577455.6353338
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 344,
+    "source_timestamp": 1781577455.4261408,
+    "processed_timestamp": 1781577454.995319,
+    "processing_time_ms": 136.49,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9399,
+        "bbox": {
+          "x1": 129,
+          "y1": 152,
+          "x2": 529,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577455.015573
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 343,
+    "source_timestamp": 1781577454.9227023,
+    "processed_timestamp": 1781577454.4481938,
+    "processing_time_ms": 101.46,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9374,
+        "bbox": {
+          "x1": 129,
+          "y1": 151,
+          "x2": 530,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577454.4660792
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 342,
+    "source_timestamp": 1781577454.4253476,
+    "processed_timestamp": 1781577454.1058369,
+    "processing_time_ms": 286.23,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9406,
+        "bbox": {
+          "x1": 130,
+          "y1": 152,
+          "x2": 529,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577454.127537
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 341,
+    "source_timestamp": 1781577453.9168847,
+    "processed_timestamp": 1781577453.4218733,
+    "processing_time_ms": 131.23,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9386,
+        "bbox": {
+          "x1": 130,
+          "y1": 151,
+          "x2": 529,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577453.4483385
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 340,
+    "source_timestamp": 1781577453.4244988,
+    "processed_timestamp": 1781577452.8939295,
+    "processing_time_ms": 115.9,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9383,
+        "bbox": {
+          "x1": 130,
+          "y1": 152,
+          "x2": 529,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577452.912858
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 339,
+    "source_timestamp": 1781577452.9185076,
+    "processed_timestamp": 1781577452.3740592,
+    "processing_time_ms": 124.51,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9382,
+        "bbox": {
+          "x1": 129,
+          "y1": 151,
+          "x2": 530,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577452.3939848
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 338,
+    "source_timestamp": 1781577452.4154577,
+    "processed_timestamp": 1781577451.8220685,
+    "processing_time_ms": 96.5,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9358,
+        "bbox": {
+          "x1": 128,
+          "y1": 150,
+          "x2": 530,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577451.8400707
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 337,
+    "source_timestamp": 1781577451.9258637,
+    "processed_timestamp": 1781577451.3230934,
+    "processing_time_ms": 104.59,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9337,
+        "bbox": {
+          "x1": 130,
+          "y1": 150,
+          "x2": 530,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577451.3438282
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 336,
+    "source_timestamp": 1781577451.4185948,
+    "processed_timestamp": 1781577450.7701025,
+    "processing_time_ms": 82.83,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9328,
+        "bbox": {
+          "x1": 126,
+          "y1": 150,
+          "x2": 522,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577450.7921236
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 335,
+    "source_timestamp": 1781577450.9266672,
+    "processed_timestamp": 1781577450.3014107,
+    "processing_time_ms": 121.87,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.938,
+        "bbox": {
+          "x1": 131,
+          "y1": 157,
+          "x2": 517,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577450.320902
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 334,
+    "source_timestamp": 1781577450.4199953,
+    "processed_timestamp": 1781577449.7621698,
+    "processing_time_ms": 112.71,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9401,
+        "bbox": {
+          "x1": 132,
+          "y1": 160,
+          "x2": 510,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577449.782083
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 333,
+    "source_timestamp": 1781577449.910427,
+    "processed_timestamp": 1781577449.2330778,
+    "processing_time_ms": 111.48,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9365,
+        "bbox": {
+          "x1": 133,
+          "y1": 161,
+          "x2": 511,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577449.2560468
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 332,
+    "source_timestamp": 1781577449.418624,
+    "processed_timestamp": 1781577448.7071605,
+    "processing_time_ms": 98.79,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9425,
+        "bbox": {
+          "x1": 136,
+          "y1": 160,
+          "x2": 515,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577448.7254956
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 331,
+    "source_timestamp": 1781577448.912538,
+    "processed_timestamp": 1781577448.189302,
+    "processing_time_ms": 108.43,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9445,
+        "bbox": {
+          "x1": 138,
+          "y1": 156,
+          "x2": 519,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577448.2079427
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 330,
+    "source_timestamp": 1781577448.4181972,
+    "processed_timestamp": 1781577447.6787858,
+    "processing_time_ms": 109.91,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9343,
+        "bbox": {
+          "x1": 132,
+          "y1": 143,
+          "x2": 529,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577447.6983342
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 329,
+    "source_timestamp": 1781577447.9083965,
+    "processed_timestamp": 1781577447.110912,
+    "processing_time_ms": 78.16,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9274,
+        "bbox": {
+          "x1": 131,
+          "y1": 146,
+          "x2": 529,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577447.1345398
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 328,
+    "source_timestamp": 1781577447.4125214,
+    "processed_timestamp": 1781577446.6160054,
+    "processing_time_ms": 98.57,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9274,
+        "bbox": {
+          "x1": 136,
+          "y1": 145,
+          "x2": 534,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577446.6354825
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 325,
+    "source_timestamp": 1781577445.9158661,
+    "processed_timestamp": 1781577446.4813287,
+    "processing_time_ms": 172.44,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9332,
+        "bbox": {
+          "x1": 137,
+          "y1": 145,
+          "x2": 533,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577446.4990282
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 327,
+    "source_timestamp": 1781577446.9173257,
+    "processed_timestamp": 1781577446.123721,
+    "processing_time_ms": 117.33,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9314,
+        "bbox": {
+          "x1": 137,
+          "y1": 146,
+          "x2": 535,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577446.1424274
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 324,
+    "source_timestamp": 1781577445.4117477,
+    "processed_timestamp": 1781577445.9257982,
+    "processing_time_ms": 138.97,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9337,
+        "bbox": {
+          "x1": 137,
+          "y1": 147,
+          "x2": 532,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577445.9453812
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 326,
+    "source_timestamp": 1781577446.4081123,
+    "processed_timestamp": 1781577446.5746531,
+    "processing_time_ms": 137.37,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9303,
+        "bbox": {
+          "x1": 137,
+          "y1": 145,
+          "x2": 535,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577445.633348
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 323,
+    "source_timestamp": 1781577444.9051766,
+    "processed_timestamp": 1781577445.3517592,
+    "processing_time_ms": 94.55,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9299,
+        "bbox": {
+          "x1": 136,
+          "y1": 146,
+          "x2": 534,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577445.3745935
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 322,
+    "source_timestamp": 1781577444.416503,
+    "processed_timestamp": 1781577444.858847,
+    "processing_time_ms": 110.63,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9273,
+        "bbox": {
+          "x1": 135,
+          "y1": 146,
+          "x2": 534,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577444.8796887
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 321,
+    "source_timestamp": 1781577443.9075844,
+    "processed_timestamp": 1781577444.3200288,
+    "processing_time_ms": 102.61,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9296,
+        "bbox": {
+          "x1": 135,
+          "y1": 145,
+          "x2": 533,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577444.3410192
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 320,
+    "source_timestamp": 1781577443.4095237,
+    "processed_timestamp": 1781577443.8065,
+    "processing_time_ms": 115.83,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.931,
+        "bbox": {
+          "x1": 137,
+          "y1": 145,
+          "x2": 533,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577443.8244445
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 319,
+    "source_timestamp": 1781577442.9014132,
+    "processed_timestamp": 1781577443.3181684,
+    "processing_time_ms": 151.56,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9295,
+        "bbox": {
+          "x1": 137,
+          "y1": 145,
+          "x2": 533,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577443.34029
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 318,
+    "source_timestamp": 1781577442.4098918,
+    "processed_timestamp": 1781577442.7630935,
+    "processing_time_ms": 111.59,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9292,
+        "bbox": {
+          "x1": 136,
+          "y1": 145,
+          "x2": 534,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577442.782931
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 317,
+    "source_timestamp": 1781577441.9033926,
+    "processed_timestamp": 1781577442.2210486,
+    "processing_time_ms": 95.6,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.927,
+        "bbox": {
+          "x1": 136,
+          "y1": 145,
+          "x2": 534,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577442.2388637
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 316,
+    "source_timestamp": 1781577441.4050968,
+    "processed_timestamp": 1781577441.716241,
+    "processing_time_ms": 111.95,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9266,
+        "bbox": {
+          "x1": 137,
+          "y1": 145,
+          "x2": 534,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577441.7354813
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 315,
+    "source_timestamp": 1781577440.8975902,
+    "processed_timestamp": 1781577441.1818264,
+    "processing_time_ms": 112.92,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9279,
+        "bbox": {
+          "x1": 136,
+          "y1": 145,
+          "x2": 535,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577441.2013857
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 314,
+    "source_timestamp": 1781577440.3965547,
+    "processed_timestamp": 1781577440.6510055,
+    "processing_time_ms": 104.98,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9334,
+        "bbox": {
+          "x1": 136,
+          "y1": 145,
+          "x2": 535,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577440.670851
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 313,
+    "source_timestamp": 1781577439.8961904,
+    "processed_timestamp": 1781577440.13191,
+    "processing_time_ms": 106.79,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9343,
+        "bbox": {
+          "x1": 136,
+          "y1": 145,
+          "x2": 536,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577440.1516292
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 312,
+    "source_timestamp": 1781577439.3955278,
+    "processed_timestamp": 1781577439.6327758,
+    "processing_time_ms": 128.65,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9318,
+        "bbox": {
+          "x1": 136,
+          "y1": 145,
+          "x2": 535,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577439.6544697
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 311,
+    "source_timestamp": 1781577438.8950071,
+    "processed_timestamp": 1781577439.0706525,
+    "processing_time_ms": 94.18,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9316,
+        "bbox": {
+          "x1": 136,
+          "y1": 144,
+          "x2": 534,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577439.0935955
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 310,
+    "source_timestamp": 1781577438.394375,
+    "processed_timestamp": 1781577438.5563824,
+    "processing_time_ms": 98.4,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9312,
+        "bbox": {
+          "x1": 136,
+          "y1": 145,
+          "x2": 536,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577438.5738745
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 309,
+    "source_timestamp": 1781577437.893631,
+    "processed_timestamp": 1781577438.1125212,
+    "processing_time_ms": 174.42,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9316,
+        "bbox": {
+          "x1": 136,
+          "y1": 145,
+          "x2": 535,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577438.13492
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 308,
+    "source_timestamp": 1781577437.3944838,
+    "processed_timestamp": 1781577437.5220957,
+    "processing_time_ms": 112.2,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9305,
+        "bbox": {
+          "x1": 136,
+          "y1": 145,
+          "x2": 536,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577437.543351
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 307,
+    "source_timestamp": 1781577436.8931653,
+    "processed_timestamp": 1781577437.0311248,
+    "processing_time_ms": 131.53,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9318,
+        "bbox": {
+          "x1": 136,
+          "y1": 145,
+          "x2": 536,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577437.049292
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 306,
+    "source_timestamp": 1781577436.392613,
+    "processed_timestamp": 1781577436.4455209,
+    "processing_time_ms": 82.32,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9324,
+        "bbox": {
+          "x1": 134,
+          "y1": 146,
+          "x2": 535,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577436.4637437
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 305,
+    "source_timestamp": 1781577435.8920617,
+    "processed_timestamp": 1781577436.0508716,
+    "processing_time_ms": 200.38,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9342,
+        "bbox": {
+          "x1": 135,
+          "y1": 145,
+          "x2": 536,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577436.0697443
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 304,
+    "source_timestamp": 1781577435.3920257,
+    "processed_timestamp": 1781577435.42527,
+    "processing_time_ms": 102.0,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9313,
+        "bbox": {
+          "x1": 141,
+          "y1": 143,
+          "x2": 538,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577435.4457436
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 303,
+    "source_timestamp": 1781577434.892035,
+    "processed_timestamp": 1781577434.9046159,
+    "processing_time_ms": 99.57,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9322,
+        "bbox": {
+          "x1": 144,
+          "y1": 144,
+          "x2": 537,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577434.9221444
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 302,
+    "source_timestamp": 1781577434.3901079,
+    "processed_timestamp": 1781577434.3845804,
+    "processing_time_ms": 97.75,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9343,
+        "bbox": {
+          "x1": 141,
+          "y1": 143,
+          "x2": 537,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577434.403917
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 301,
+    "source_timestamp": 1781577433.890236,
+    "processed_timestamp": 1781577433.8470025,
+    "processing_time_ms": 80.02,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9328,
+        "bbox": {
+          "x1": 143,
+          "y1": 142,
+          "x2": 537,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577433.8658597
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 300,
+    "source_timestamp": 1781577433.3895152,
+    "processed_timestamp": 1781577433.3415644,
+    "processing_time_ms": 100.42,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9305,
+        "bbox": {
+          "x1": 142,
+          "y1": 141,
+          "x2": 538,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577433.359591
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 299,
+    "source_timestamp": 1781577432.88933,
+    "processed_timestamp": 1781577432.7941532,
+    "processing_time_ms": 82.69,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9172,
+        "bbox": {
+          "x1": 142,
+          "y1": 144,
+          "x2": 547,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577432.8100886
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 298,
+    "source_timestamp": 1781577432.38849,
+    "processed_timestamp": 1781577432.2879915,
+    "processing_time_ms": 96.55,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9221,
+        "bbox": {
+          "x1": 143,
+          "y1": 145,
+          "x2": 543,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577432.3087482
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 297,
+    "source_timestamp": 1781577431.8893049,
+    "processed_timestamp": 1781577431.7958682,
+    "processing_time_ms": 119.0,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9115,
+        "bbox": {
+          "x1": 143,
+          "y1": 145,
+          "x2": 547,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577431.8139396
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 296,
+    "source_timestamp": 1781577431.38715,
+    "processed_timestamp": 1781577431.281143,
+    "processing_time_ms": 109.53,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9035,
+        "bbox": {
+          "x1": 134,
+          "y1": 145,
+          "x2": 545,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577431.2985702
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 295,
+    "source_timestamp": 1781577430.8868809,
+    "processed_timestamp": 1781577430.708006,
+    "processing_time_ms": 78.61,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9181,
+        "bbox": {
+          "x1": 130,
+          "y1": 146,
+          "x2": 541,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577430.727992
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 294,
+    "source_timestamp": 1781577430.386045,
+    "processed_timestamp": 1781577430.1965878,
+    "processing_time_ms": 89.83,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9196,
+        "bbox": {
+          "x1": 131,
+          "y1": 147,
+          "x2": 550,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577430.2174854
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 293,
+    "source_timestamp": 1781577429.8856366,
+    "processed_timestamp": 1781577429.6853063,
+    "processing_time_ms": 98.11,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9288,
+        "bbox": {
+          "x1": 136,
+          "y1": 151,
+          "x2": 544,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577429.706288
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 292,
+    "source_timestamp": 1781577429.3847582,
+    "processed_timestamp": 1781577429.1589987,
+    "processing_time_ms": 97.43,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9322,
+        "bbox": {
+          "x1": 140,
+          "y1": 155,
+          "x2": 537,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577429.177495
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 291,
+    "source_timestamp": 1781577428.8859935,
+    "processed_timestamp": 1781577428.6832266,
+    "processing_time_ms": 139.8,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9394,
+        "bbox": {
+          "x1": 138,
+          "y1": 157,
+          "x2": 528,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577428.7036786
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 290,
+    "source_timestamp": 1781577428.3823073,
+    "processed_timestamp": 1781577428.0982835,
+    "processing_time_ms": 86.75,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.937,
+        "bbox": {
+          "x1": 144,
+          "y1": 157,
+          "x2": 533,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577428.118412
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 289,
+    "source_timestamp": 1781577427.882304,
+    "processed_timestamp": 1781577427.5917475,
+    "processing_time_ms": 111.66,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9333,
+        "bbox": {
+          "x1": 146,
+          "y1": 160,
+          "x2": 533,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577427.6116984
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 288,
+    "source_timestamp": 1781577427.3822186,
+    "processed_timestamp": 1781577427.0479875,
+    "processing_time_ms": 97.31,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9275,
+        "bbox": {
+          "x1": 143,
+          "y1": 162,
+          "x2": 535,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577427.0674913
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 287,
+    "source_timestamp": 1781577426.8810105,
+    "processed_timestamp": 1781577426.5243368,
+    "processing_time_ms": 103.83,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.6902,
+        "bbox": {
+          "x1": 71,
+          "y1": 170,
+          "x2": 526,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577426.5445504
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 286,
+    "source_timestamp": 1781577426.3802497,
+    "processed_timestamp": 1781577426.006424,
+    "processing_time_ms": 117.39,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.8373,
+        "bbox": {
+          "x1": 67,
+          "y1": 163,
+          "x2": 525,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577426.0258906
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 285,
+    "source_timestamp": 1781577425.8795476,
+    "processed_timestamp": 1781577425.5436246,
+    "processing_time_ms": 183.21,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.8804,
+        "bbox": {
+          "x1": 84,
+          "y1": 164,
+          "x2": 530,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577425.5628915
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 284,
+    "source_timestamp": 1781577425.379374,
+    "processed_timestamp": 1781577424.9313416,
+    "processing_time_ms": 102.13,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9071,
+        "bbox": {
+          "x1": 63,
+          "y1": 168,
+          "x2": 519,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577424.9517033
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 283,
+    "source_timestamp": 1781577424.878816,
+    "processed_timestamp": 1781577424.4704556,
+    "processing_time_ms": 173.6,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.7989,
+        "bbox": {
+          "x1": 83,
+          "y1": 178,
+          "x2": 521,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577424.4896781
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 282,
+    "source_timestamp": 1781577424.3795264,
+    "processed_timestamp": 1781577423.8909402,
+    "processing_time_ms": 123.11,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9231,
+        "bbox": {
+          "x1": 105,
+          "y1": 187,
+          "x2": 506,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577423.9144585
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 281,
+    "source_timestamp": 1781577423.8977563,
+    "processed_timestamp": 1781577423.4253547,
+    "processing_time_ms": 163.96,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9393,
+        "bbox": {
+          "x1": 151,
+          "y1": 199,
+          "x2": 500,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577423.4641213
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 280,
+    "source_timestamp": 1781577423.3777444,
+    "processed_timestamp": 1781577422.8523643,
+    "processing_time_ms": 144.51,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.8718,
+        "bbox": {
+          "x1": 158,
+          "y1": 221,
+          "x2": 554,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577422.8712246
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 279,
+    "source_timestamp": 1781577422.8790777,
+    "processed_timestamp": 1781577422.2800443,
+    "processing_time_ms": 104.33,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9183,
+        "bbox": {
+          "x1": 166,
+          "y1": 230,
+          "x2": 514,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577422.3004293
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 278,
+    "source_timestamp": 1781577422.377012,
+    "processed_timestamp": 1781577421.8007696,
+    "processing_time_ms": 155.26,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9151,
+        "bbox": {
+          "x1": 160,
+          "y1": 237,
+          "x2": 489,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577421.8238926
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 277,
+    "source_timestamp": 1781577421.8764184,
+    "processed_timestamp": 1781577421.2476854,
+    "processing_time_ms": 134.65,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9543,
+        "bbox": {
+          "x1": 151,
+          "y1": 208,
+          "x2": 499,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577421.2676864
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 276,
+    "source_timestamp": 1781577421.3761554,
+    "processed_timestamp": 1781577420.88345,
+    "processing_time_ms": 301.74,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9492,
+        "bbox": {
+          "x1": 146,
+          "y1": 184,
+          "x2": 517,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577420.901616
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 275,
+    "source_timestamp": 1781577420.8743777,
+    "processed_timestamp": 1781577420.156128,
+    "processing_time_ms": 95.4,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9385,
+        "bbox": {
+          "x1": 151,
+          "y1": 161,
+          "x2": 528,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577420.1737776
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 274,
+    "source_timestamp": 1781577420.3741214,
+    "processed_timestamp": 1781577419.6376102,
+    "processing_time_ms": 96.83,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9304,
+        "bbox": {
+          "x1": 149,
+          "y1": 157,
+          "x2": 534,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577419.6564407
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 273,
+    "source_timestamp": 1781577419.8742702,
+    "processed_timestamp": 1781577419.1204433,
+    "processing_time_ms": 100.26,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9288,
+        "bbox": {
+          "x1": 144,
+          "y1": 149,
+          "x2": 527,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577419.143591
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 272,
+    "source_timestamp": 1781577419.3728886,
+    "processed_timestamp": 1781577418.5937645,
+    "processing_time_ms": 97.1,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9388,
+        "bbox": {
+          "x1": 140,
+          "y1": 151,
+          "x2": 523,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577418.6116784
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 271,
+    "source_timestamp": 1781577418.8728335,
+    "processed_timestamp": 1781577418.0680227,
+    "processing_time_ms": 91.88,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9357,
+        "bbox": {
+          "x1": 141,
+          "y1": 148,
+          "x2": 527,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577418.086967
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 268,
+    "source_timestamp": 1781577417.3806062,
+    "processed_timestamp": 1781577417.7506404,
+    "processing_time_ms": 111.07,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9377,
+        "bbox": {
+          "x1": 139,
+          "y1": 149,
+          "x2": 527,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577417.7696521
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 270,
+    "source_timestamp": 1781577418.3793042,
+    "processed_timestamp": 1781577417.5898783,
+    "processing_time_ms": 115.41,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9358,
+        "bbox": {
+          "x1": 140,
+          "y1": 149,
+          "x2": 528,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577417.6092496
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 267,
+    "source_timestamp": 1781577416.8741992,
+    "processed_timestamp": 1781577417.1991186,
+    "processing_time_ms": 90.21,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9386,
+        "bbox": {
+          "x1": 139,
+          "y1": 149,
+          "x2": 527,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577417.2167861
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 269,
+    "source_timestamp": 1781577417.873686,
+    "processed_timestamp": 1781577417.0456195,
+    "processing_time_ms": -858.38,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9357,
+        "bbox": {
+          "x1": 139,
+          "y1": 149,
+          "x2": 528,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577417.066271
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 266,
+    "source_timestamp": 1781577416.384216,
+    "processed_timestamp": 1781577416.678709,
+    "processing_time_ms": 79.64,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.933,
+        "bbox": {
+          "x1": 137,
+          "y1": 149,
+          "x2": 530,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577416.69752
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 265,
+    "source_timestamp": 1781577415.878766,
+    "processed_timestamp": 1781577416.2941234,
+    "processing_time_ms": 216.93,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9418,
+        "bbox": {
+          "x1": 137,
+          "y1": 152,
+          "x2": 523,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577416.314082
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 264,
+    "source_timestamp": 1781577415.374951,
+    "processed_timestamp": 1781577415.6495843,
+    "processing_time_ms": 100.32,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.8887,
+        "bbox": {
+          "x1": 136,
+          "y1": 157,
+          "x2": 494,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577415.6701074
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 263,
+    "source_timestamp": 1781577414.8841944,
+    "processed_timestamp": 1781577415.168446,
+    "processing_time_ms": 124.96,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.867,
+        "bbox": {
+          "x1": 132,
+          "y1": 166,
+          "x2": 610,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577415.1889791
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 262,
+    "source_timestamp": 1781577414.375357,
+    "processed_timestamp": 1781577414.620244,
+    "processing_time_ms": 110.03,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.8278,
+        "bbox": {
+          "x1": 132,
+          "y1": 166,
+          "x2": 610,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577414.6434338
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 261,
+    "source_timestamp": 1781577413.8704634,
+    "processed_timestamp": 1781577414.0615695,
+    "processing_time_ms": 78.7,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.8501,
+        "bbox": {
+          "x1": 135,
+          "y1": 167,
+          "x2": 609,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577414.0805461
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 260,
+    "source_timestamp": 1781577413.3763046,
+    "processed_timestamp": 1781577413.6112006,
+    "processing_time_ms": 142.77,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.7717,
+        "bbox": {
+          "x1": 131,
+          "y1": 165,
+          "x2": 609,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577413.6362064
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 259,
+    "source_timestamp": 1781577412.8698814,
+    "processed_timestamp": 1781577413.0305774,
+    "processing_time_ms": 87.95,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9055,
+        "bbox": {
+          "x1": 132,
+          "y1": 169,
+          "x2": 614,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577413.0486493
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 258,
+    "source_timestamp": 1781577412.3805609,
+    "processed_timestamp": 1781577412.5327563,
+    "processing_time_ms": 96.16,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.8786,
+        "bbox": {
+          "x1": 139,
+          "y1": 175,
+          "x2": 619,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577412.5516615
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 257,
+    "source_timestamp": 1781577411.8727396,
+    "processed_timestamp": 1781577411.9820209,
+    "processing_time_ms": 82.86,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9214,
+        "bbox": {
+          "x1": 139,
+          "y1": 162,
+          "x2": 538,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577412.0009534
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 256,
+    "source_timestamp": 1781577411.3661604,
+    "processed_timestamp": 1781577411.4784827,
+    "processing_time_ms": 103.21,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9321,
+        "bbox": {
+          "x1": 143,
+          "y1": 144,
+          "x2": 537,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577411.498338
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 255,
+    "source_timestamp": 1781577410.874966,
+    "processed_timestamp": 1781577410.959918,
+    "processing_time_ms": 97.75,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9336,
+        "bbox": {
+          "x1": 150,
+          "y1": 148,
+          "x2": 536,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577410.9811447
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 254,
+    "source_timestamp": 1781577410.3794658,
+    "processed_timestamp": 1781577410.4420407,
+    "processing_time_ms": 96.65,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9411,
+        "bbox": {
+          "x1": 157,
+          "y1": 148,
+          "x2": 536,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577410.461573
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 253,
+    "source_timestamp": 1781577409.873181,
+    "processed_timestamp": 1781577409.9691653,
+    "processing_time_ms": 147.76,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.942,
+        "bbox": {
+          "x1": 158,
+          "y1": 148,
+          "x2": 537,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577409.9896169
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 252,
+    "source_timestamp": 1781577409.3788366,
+    "processed_timestamp": 1781577409.4116137,
+    "processing_time_ms": 107.77,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9381,
+        "bbox": {
+          "x1": 158,
+          "y1": 148,
+          "x2": 536,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577409.4341128
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 251,
+    "source_timestamp": 1781577408.8694541,
+    "processed_timestamp": 1781577408.8592074,
+    "processing_time_ms": 87.91,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9362,
+        "bbox": {
+          "x1": 158,
+          "y1": 147,
+          "x2": 536,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577408.8773558
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 250,
+    "source_timestamp": 1781577408.3773208,
+    "processed_timestamp": 1781577408.3531463,
+    "processing_time_ms": 99.19,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9403,
+        "bbox": {
+          "x1": 158,
+          "y1": 148,
+          "x2": 536,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577408.372405
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 249,
+    "source_timestamp": 1781577407.867366,
+    "processed_timestamp": 1781577407.8113303,
+    "processing_time_ms": 91.27,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9327,
+        "bbox": {
+          "x1": 158,
+          "y1": 147,
+          "x2": 536,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577407.834588
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 248,
+    "source_timestamp": 1781577407.363318,
+    "processed_timestamp": 1781577407.2844317,
+    "processing_time_ms": 89.91,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9393,
+        "bbox": {
+          "x1": 157,
+          "y1": 147,
+          "x2": 536,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577407.3038237
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 247,
+    "source_timestamp": 1781577406.8749378,
+    "processed_timestamp": 1781577406.7849174,
+    "processing_time_ms": 99.61,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9379,
+        "bbox": {
+          "x1": 157,
+          "y1": 147,
+          "x2": 537,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577406.8073907
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 246,
+    "source_timestamp": 1781577406.3685765,
+    "processed_timestamp": 1781577406.2351682,
+    "processing_time_ms": 77.26,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9359,
+        "bbox": {
+          "x1": 156,
+          "y1": 147,
+          "x2": 537,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577406.255022
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 245,
+    "source_timestamp": 1781577405.8764644,
+    "processed_timestamp": 1781577405.9041445,
+    "processing_time_ms": 247.35,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9364,
+        "bbox": {
+          "x1": 157,
+          "y1": 148,
+          "x2": 538,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577405.9245882
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 244,
+    "source_timestamp": 1781577405.3551037,
+    "processed_timestamp": 1781577405.1956577,
+    "processing_time_ms": 97.5,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.933,
+        "bbox": {
+          "x1": 158,
+          "y1": 147,
+          "x2": 536,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577405.2230644
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 243,
+    "source_timestamp": 1781577404.8624763,
+    "processed_timestamp": 1781577404.678124,
+    "processing_time_ms": 96.86,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9336,
+        "bbox": {
+          "x1": 158,
+          "y1": 148,
+          "x2": 535,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577404.6981547
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 242,
+    "source_timestamp": 1781577404.3533475,
+    "processed_timestamp": 1781577404.157242,
+    "processing_time_ms": 103.17,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9336,
+        "bbox": {
+          "x1": 157,
+          "y1": 147,
+          "x2": 535,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577404.1770043
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 241,
+    "source_timestamp": 1781577403.8639941,
+    "processed_timestamp": 1781577403.6514342,
+    "processing_time_ms": 107.85,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9379,
+        "bbox": {
+          "x1": 155,
+          "y1": 148,
+          "x2": 535,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577403.6730137
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 240,
+    "source_timestamp": 1781577403.3569703,
+    "processed_timestamp": 1781577403.1118355,
+    "processing_time_ms": 95.51,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.937,
+        "bbox": {
+          "x1": 156,
+          "y1": 148,
+          "x2": 538,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577403.1309743
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 239,
+    "source_timestamp": 1781577402.8607967,
+    "processed_timestamp": 1781577402.5805326,
+    "processing_time_ms": 84.26,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9393,
+        "bbox": {
+          "x1": 155,
+          "y1": 148,
+          "x2": 536,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577402.6002467
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 238,
+    "source_timestamp": 1781577402.3568587,
+    "processed_timestamp": 1781577402.106718,
+    "processing_time_ms": 127.29,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9397,
+        "bbox": {
+          "x1": 149,
+          "y1": 148,
+          "x2": 536,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577402.1260202
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 237,
+    "source_timestamp": 1781577401.8563511,
+    "processed_timestamp": 1781577401.6003504,
+    "processing_time_ms": 103.57,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9414,
+        "bbox": {
+          "x1": 150,
+          "y1": 149,
+          "x2": 536,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577401.6198857
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 236,
+    "source_timestamp": 1781577401.361091,
+    "processed_timestamp": 1781577401.0297587,
+    "processing_time_ms": 88.25,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9352,
+        "bbox": {
+          "x1": 150,
+          "y1": 147,
+          "x2": 537,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577401.048414
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 235,
+    "source_timestamp": 1781577400.8500874,
+    "processed_timestamp": 1781577400.4946284,
+    "processing_time_ms": 90.43,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9406,
+        "bbox": {
+          "x1": 152,
+          "y1": 147,
+          "x2": 536,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577400.5144265
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 234,
+    "source_timestamp": 1781577400.356301,
+    "processed_timestamp": 1781577400.0241828,
+    "processing_time_ms": 134.15,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9245,
+        "bbox": {
+          "x1": 147,
+          "y1": 147,
+          "x2": 535,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577400.0422642
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 233,
+    "source_timestamp": 1781577399.862117,
+    "processed_timestamp": 1781577399.454991,
+    "processing_time_ms": 83.57,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9254,
+        "bbox": {
+          "x1": 144,
+          "y1": 147,
+          "x2": 535,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577399.4750926
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 232,
+    "source_timestamp": 1781577399.353318,
+    "processed_timestamp": 1781577398.9599345,
+    "processing_time_ms": 118.06,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9198,
+        "bbox": {
+          "x1": 146,
+          "y1": 145,
+          "x2": 537,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577398.9846005
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 231,
+    "source_timestamp": 1781577398.848335,
+    "processed_timestamp": 1781577398.416065,
+    "processing_time_ms": 101.45,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9351,
+        "bbox": {
+          "x1": 146,
+          "y1": 145,
+          "x2": 536,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577398.433277
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 230,
+    "source_timestamp": 1781577398.3520384,
+    "processed_timestamp": 1781577397.9103978,
+    "processing_time_ms": 110.54,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9321,
+        "bbox": {
+          "x1": 144,
+          "y1": 145,
+          "x2": 535,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577397.9294868
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 229,
+    "source_timestamp": 1781577397.844368,
+    "processed_timestamp": 1781577397.3691132,
+    "processing_time_ms": 99.61,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9295,
+        "bbox": {
+          "x1": 141,
+          "y1": 144,
+          "x2": 534,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577397.3873591
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 228,
+    "source_timestamp": 1781577397.3470004,
+    "processed_timestamp": 1781577396.8529952,
+    "processing_time_ms": 103.62,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9312,
+        "bbox": {
+          "x1": 145,
+          "y1": 146,
+          "x2": 535,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577396.8714082
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 227,
+    "source_timestamp": 1781577396.8435245,
+    "processed_timestamp": 1781577396.3148785,
+    "processing_time_ms": 94.77,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9346,
+        "bbox": {
+          "x1": 145,
+          "y1": 145,
+          "x2": 537,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577396.332825
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 226,
+    "source_timestamp": 1781577396.3433654,
+    "processed_timestamp": 1781577395.836685,
+    "processing_time_ms": 134.4,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.93,
+        "bbox": {
+          "x1": 143,
+          "y1": 145,
+          "x2": 541,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577395.8562615
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 225,
+    "source_timestamp": 1781577395.8430576,
+    "processed_timestamp": 1781577395.3780575,
+    "processing_time_ms": 195.87,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.931,
+        "bbox": {
+          "x1": 144,
+          "y1": 146,
+          "x2": 540,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577395.4060197
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 224,
+    "source_timestamp": 1781577395.3416803,
+    "processed_timestamp": 1781577394.7859113,
+    "processing_time_ms": 123.39,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9327,
+        "bbox": {
+          "x1": 145,
+          "y1": 146,
+          "x2": 535,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577394.8058312
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 223,
+    "source_timestamp": 1781577394.8424156,
+    "processed_timestamp": 1781577394.2546978,
+    "processing_time_ms": 111.45,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9343,
+        "bbox": {
+          "x1": 148,
+          "y1": 146,
+          "x2": 534,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577394.2777886
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 222,
+    "source_timestamp": 1781577394.340399,
+    "processed_timestamp": 1781577393.7471611,
+    "processing_time_ms": 118.97,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.934,
+        "bbox": {
+          "x1": 145,
+          "y1": 145,
+          "x2": 530,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577393.7642121
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 221,
+    "source_timestamp": 1781577393.840377,
+    "processed_timestamp": 1781577393.210242,
+    "processing_time_ms": 104.79,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9359,
+        "bbox": {
+          "x1": 143,
+          "y1": 147,
+          "x2": 533,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577393.2330987
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 220,
+    "source_timestamp": 1781577393.3398316,
+    "processed_timestamp": 1781577392.6821258,
+    "processing_time_ms": 101.73,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9328,
+        "bbox": {
+          "x1": 144,
+          "y1": 146,
+          "x2": 533,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577392.701287
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 219,
+    "source_timestamp": 1781577392.8400671,
+    "processed_timestamp": 1781577392.160094,
+    "processing_time_ms": 87.27,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9351,
+        "bbox": {
+          "x1": 145,
+          "y1": 147,
+          "x2": 532,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577392.1781373
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 218,
+    "source_timestamp": 1781577392.3387928,
+    "processed_timestamp": 1781577391.617868,
+    "processing_time_ms": 79.74,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9327,
+        "bbox": {
+          "x1": 144,
+          "y1": 147,
+          "x2": 532,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577391.6395667
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 217,
+    "source_timestamp": 1781577391.8382857,
+    "processed_timestamp": 1781577391.1034281,
+    "processing_time_ms": 82.78,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9339,
+        "bbox": {
+          "x1": 144,
+          "y1": 147,
+          "x2": 531,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577391.1238363
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 216,
+    "source_timestamp": 1781577391.3378687,
+    "processed_timestamp": 1781577390.5706909,
+    "processing_time_ms": 76.35,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9391,
+        "bbox": {
+          "x1": 145,
+          "y1": 147,
+          "x2": 531,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577390.5899634
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 215,
+    "source_timestamp": 1781577390.8367019,
+    "processed_timestamp": 1781577390.0818427,
+    "processing_time_ms": 103.37,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.934,
+        "bbox": {
+          "x1": 144,
+          "y1": 146,
+          "x2": 532,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577390.1018453
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 214,
+    "source_timestamp": 1781577390.337402,
+    "processed_timestamp": 1781577389.5537205,
+    "processing_time_ms": 96.97,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9327,
+        "bbox": {
+          "x1": 145,
+          "y1": 146,
+          "x2": 531,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577389.5718637
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 213,
+    "source_timestamp": 1781577389.8368459,
+    "processed_timestamp": 1781577389.0823867,
+    "processing_time_ms": 146.6,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9335,
+        "bbox": {
+          "x1": 144,
+          "y1": 146,
+          "x2": 531,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577389.105235
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 211,
+    "source_timestamp": 1781577388.836673,
+    "processed_timestamp": 1781577388.9736054,
+    "processing_time_ms": 118.52,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9315,
+        "bbox": {
+          "x1": 145,
+          "y1": 147,
+          "x2": 532,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577388.9983025
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 212,
+    "source_timestamp": 1781577389.336576,
+    "processed_timestamp": 1781577388.5500195,
+    "processing_time_ms": 136.03,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.935,
+        "bbox": {
+          "x1": 144,
+          "y1": 146,
+          "x2": 531,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577388.572906
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 210,
+    "source_timestamp": 1781577388.334838,
+    "processed_timestamp": 1781577387.988093,
+    "processing_time_ms": 75.47,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9358,
+        "bbox": {
+          "x1": 145,
+          "y1": 146,
+          "x2": 531,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577388.006038
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 209,
+    "source_timestamp": 1781577387.8359632,
+    "processed_timestamp": 1781577387.4856446,
+    "processing_time_ms": 89.9,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9336,
+        "bbox": {
+          "x1": 145,
+          "y1": 146,
+          "x2": 532,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577387.514548
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 208,
+    "source_timestamp": 1781577387.3360932,
+    "processed_timestamp": 1781577386.964471,
+    "processing_time_ms": 90.8,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9342,
+        "bbox": {
+          "x1": 144,
+          "y1": 146,
+          "x2": 531,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577386.9843378
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 207,
+    "source_timestamp": 1781577386.8347888,
+    "processed_timestamp": 1781577386.4415715,
+    "processing_time_ms": 89.3,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9339,
+        "bbox": {
+          "x1": 145,
+          "y1": 147,
+          "x2": 533,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577386.4615173
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 206,
+    "source_timestamp": 1781577386.334283,
+    "processed_timestamp": 1781577385.9058578,
+    "processing_time_ms": 74.45,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9335,
+        "bbox": {
+          "x1": 145,
+          "y1": 146,
+          "x2": 531,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577385.9264815
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 205,
+    "source_timestamp": 1781577385.8327873,
+    "processed_timestamp": 1781577385.5289066,
+    "processing_time_ms": 207.4,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9337,
+        "bbox": {
+          "x1": 145,
+          "y1": 146,
+          "x2": 531,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577385.550837
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 204,
+    "source_timestamp": 1781577385.332996,
+    "processed_timestamp": 1781577384.8784325,
+    "processing_time_ms": 88.84,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9342,
+        "bbox": {
+          "x1": 145,
+          "y1": 146,
+          "x2": 532,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577384.8988636
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 203,
+    "source_timestamp": 1781577384.8324385,
+    "processed_timestamp": 1781577384.3853092,
+    "processing_time_ms": 114.87,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9363,
+        "bbox": {
+          "x1": 145,
+          "y1": 146,
+          "x2": 532,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577384.4053636
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 202,
+    "source_timestamp": 1781577384.3336413,
+    "processed_timestamp": 1781577383.851062,
+    "processing_time_ms": 97.89,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9319,
+        "bbox": {
+          "x1": 145,
+          "y1": 146,
+          "x2": 532,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577383.8712442
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 201,
+    "source_timestamp": 1781577383.830203,
+    "processed_timestamp": 1781577383.3134644,
+    "processing_time_ms": 83.8,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9324,
+        "bbox": {
+          "x1": 145,
+          "y1": 146,
+          "x2": 531,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577383.334363
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 200,
+    "source_timestamp": 1781577383.3309505,
+    "processed_timestamp": 1781577382.8212488,
+    "processing_time_ms": 108.44,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9327,
+        "bbox": {
+          "x1": 145,
+          "y1": 146,
+          "x2": 531,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577382.840166
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 199,
+    "source_timestamp": 1781577382.831609,
+    "processed_timestamp": 1781577382.2831748,
+    "processing_time_ms": 91.32,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.933,
+        "bbox": {
+          "x1": 144,
+          "y1": 146,
+          "x2": 531,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577382.3039126
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 198,
+    "source_timestamp": 1781577382.3294725,
+    "processed_timestamp": 1781577381.7440329,
+    "processing_time_ms": 74.51,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9344,
+        "bbox": {
+          "x1": 144,
+          "y1": 146,
+          "x2": 532,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577381.7660503
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 197,
+    "source_timestamp": 1781577381.827722,
+    "processed_timestamp": 1781577381.2407944,
+    "processing_time_ms": 92.32,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9334,
+        "bbox": {
+          "x1": 144,
+          "y1": 145,
+          "x2": 533,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577381.2609384
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 196,
+    "source_timestamp": 1781577381.3283758,
+    "processed_timestamp": 1781577380.7210171,
+    "processing_time_ms": 89.35,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9347,
+        "bbox": {
+          "x1": 145,
+          "y1": 146,
+          "x2": 532,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577380.744586
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 195,
+    "source_timestamp": 1781577380.8286426,
+    "processed_timestamp": 1781577380.196924,
+    "processing_time_ms": 86.18,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9368,
+        "bbox": {
+          "x1": 145,
+          "y1": 147,
+          "x2": 531,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577380.2174919
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 194,
+    "source_timestamp": 1781577380.327974,
+    "processed_timestamp": 1781577379.676366,
+    "processing_time_ms": 82.48,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9364,
+        "bbox": {
+          "x1": 144,
+          "y1": 146,
+          "x2": 532,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577379.6974185
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 193,
+    "source_timestamp": 1781577379.827772,
+    "processed_timestamp": 1781577379.156621,
+    "processing_time_ms": 84.84,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9373,
+        "bbox": {
+          "x1": 144,
+          "y1": 147,
+          "x2": 532,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577379.1759868
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 192,
+    "source_timestamp": 1781577379.3261847,
+    "processed_timestamp": 1781577378.6427612,
+    "processing_time_ms": 87.27,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9376,
+        "bbox": {
+          "x1": 144,
+          "y1": 146,
+          "x2": 532,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577378.662648
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 191,
+    "source_timestamp": 1781577378.8257327,
+    "processed_timestamp": 1781577378.1334188,
+    "processing_time_ms": 96.14,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9361,
+        "bbox": {
+          "x1": 144,
+          "y1": 146,
+          "x2": 533,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577378.154789
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 190,
+    "source_timestamp": 1781577378.3324633,
+    "processed_timestamp": 1781577377.6207616,
+    "processing_time_ms": 93.24,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9347,
+        "bbox": {
+          "x1": 144,
+          "y1": 146,
+          "x2": 531,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577377.6382155
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 189,
+    "source_timestamp": 1781577377.8244963,
+    "processed_timestamp": 1781577377.0878787,
+    "processing_time_ms": 85.19,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9339,
+        "bbox": {
+          "x1": 144,
+          "y1": 146,
+          "x2": 532,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577377.108038
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 188,
+    "source_timestamp": 1781577377.3358355,
+    "processed_timestamp": 1781577376.6238556,
+    "processing_time_ms": 123.05,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9348,
+        "bbox": {
+          "x1": 144,
+          "y1": 146,
+          "x2": 532,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577376.6475456
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 187,
+    "source_timestamp": 1781577376.8261497,
+    "processed_timestamp": 1781577376.134065,
+    "processing_time_ms": 166.55,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9327,
+        "bbox": {
+          "x1": 143,
+          "y1": 147,
+          "x2": 531,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577376.159121
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 186,
+    "source_timestamp": 1781577376.3348432,
+    "processed_timestamp": 1781577375.5333898,
+    "processing_time_ms": 76.27,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9348,
+        "bbox": {
+          "x1": 144,
+          "y1": 146,
+          "x2": 531,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577375.552857
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 185,
+    "source_timestamp": 1781577375.8302739,
+    "processed_timestamp": 1781577375.0935655,
+    "processing_time_ms": 153.16,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9366,
+        "bbox": {
+          "x1": 142,
+          "y1": 146,
+          "x2": 532,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577375.1144402
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 182,
+    "source_timestamp": 1781577374.3230994,
+    "processed_timestamp": 1781577374.9877417,
+    "processing_time_ms": 81.34,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9309,
+        "bbox": {
+          "x1": 143,
+          "y1": 146,
+          "x2": 531,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577375.0076737
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 184,
+    "source_timestamp": 1781577375.3230581,
+    "processed_timestamp": 1781577374.5094843,
+    "processing_time_ms": 94.34,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9319,
+        "bbox": {
+          "x1": 142,
+          "y1": 146,
+          "x2": 531,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577374.5315497
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 181,
+    "source_timestamp": 1781577373.8320036,
+    "processed_timestamp": 1781577374.481,
+    "processing_time_ms": 84.99,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9322,
+        "bbox": {
+          "x1": 141,
+          "y1": 146,
+          "x2": 532,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577374.4992235
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 180,
+    "source_timestamp": 1781577373.326168,
+    "processed_timestamp": 1781577374.17042,
+    "processing_time_ms": 216.41,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9349,
+        "bbox": {
+          "x1": 141,
+          "y1": 146,
+          "x2": 532,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577374.1894898
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 183,
+    "source_timestamp": 1781577374.834271,
+    "processed_timestamp": 1781577373.9876378,
+    "processing_time_ms": 77.02,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9348,
+        "bbox": {
+          "x1": 142,
+          "y1": 146,
+          "x2": 533,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577374.0117106
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 179,
+    "source_timestamp": 1781577372.831952,
+    "processed_timestamp": 1781577373.9191213,
+    "processing_time_ms": 530.64,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9323,
+        "bbox": {
+          "x1": 141,
+          "y1": 145,
+          "x2": 532,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577373.9501154
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 178,
+    "source_timestamp": 1781577372.3232043,
+    "processed_timestamp": 1781577373.3398192,
+    "processing_time_ms": 502.44,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9307,
+        "bbox": {
+          "x1": 142,
+          "y1": 146,
+          "x2": 532,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577373.3734813
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 177,
+    "source_timestamp": 1781577371.8200421,
+    "processed_timestamp": 1781577372.4077601,
+    "processing_time_ms": 91.34,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9292,
+        "bbox": {
+          "x1": 140,
+          "y1": 145,
+          "x2": 533,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577372.426016
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 176,
+    "source_timestamp": 1781577371.3285897,
+    "processed_timestamp": 1781577371.8732376,
+    "processing_time_ms": 63.48,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9309,
+        "bbox": {
+          "x1": 141,
+          "y1": 146,
+          "x2": 533,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577371.8936985
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 175,
+    "source_timestamp": 1781577370.8226352,
+    "processed_timestamp": 1781577371.340873,
+    "processing_time_ms": 65.94,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9348,
+        "bbox": {
+          "x1": 143,
+          "y1": 146,
+          "x2": 532,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577371.358458
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 174,
+    "source_timestamp": 1781577370.315788,
+    "processed_timestamp": 1781577370.8513236,
+    "processing_time_ms": 96.78,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9322,
+        "bbox": {
+          "x1": 145,
+          "y1": 147,
+          "x2": 532,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577370.8691828
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 173,
+    "source_timestamp": 1781577369.8245854,
+    "processed_timestamp": 1781577370.337872,
+    "processing_time_ms": 93.37,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9261,
+        "bbox": {
+          "x1": 146,
+          "y1": 147,
+          "x2": 533,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577370.3568344
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 172,
+    "source_timestamp": 1781577369.3177106,
+    "processed_timestamp": 1781577369.8074043,
+    "processing_time_ms": 93.47,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9269,
+        "bbox": {
+          "x1": 146,
+          "y1": 148,
+          "x2": 532,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577369.8248553
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 171,
+    "source_timestamp": 1781577368.810392,
+    "processed_timestamp": 1781577369.2893863,
+    "processing_time_ms": 104.53,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 1,
+    "boxes": [
+      {
+        "confidence": 0.9258,
+        "bbox": {
+          "x1": 144,
+          "y1": 147,
+          "x2": 532,
+          "y2": 479
+        }
+      }
+    ],
+    "stored_at": 1781577369.3090591
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 170,
+    "source_timestamp": 1781577368.317389,
+    "processed_timestamp": 1781577368.75679,
+    "processing_time_ms": 96.86,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577368.7658138
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 169,
+    "source_timestamp": 1781577367.8098166,
+    "processed_timestamp": 1781577368.225668,
+    "processing_time_ms": 93.54,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577368.2384253
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 168,
+    "source_timestamp": 1781577367.3176935,
+    "processed_timestamp": 1781577367.7385538,
+    "processing_time_ms": 119.37,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577367.7463822
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 167,
+    "source_timestamp": 1781577366.8111098,
+    "processed_timestamp": 1781577367.176489,
+    "processing_time_ms": 81.34,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577367.1861677
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 166,
+    "source_timestamp": 1781577366.3168087,
+    "processed_timestamp": 1781577366.7495172,
+    "processing_time_ms": 167.88,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577366.7598922
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 165,
+    "source_timestamp": 1781577365.8119793,
+    "processed_timestamp": 1781577366.3505595,
+    "processing_time_ms": 295.61,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577366.3584402
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 164,
+    "source_timestamp": 1781577365.306448,
+    "processed_timestamp": 1781577365.6170695,
+    "processing_time_ms": 87.69,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577365.6261156
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 163,
+    "source_timestamp": 1781577364.8110328,
+    "processed_timestamp": 1781577365.1109998,
+    "processing_time_ms": 95.16,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577365.119184
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 162,
+    "source_timestamp": 1781577364.3045895,
+    "processed_timestamp": 1781577364.5833771,
+    "processing_time_ms": 96.83,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577364.5914052
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 161,
+    "source_timestamp": 1781577363.8118224,
+    "processed_timestamp": 1781577364.080903,
+    "processing_time_ms": 106.59,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577364.0892966
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 160,
+    "source_timestamp": 1781577363.312072,
+    "processed_timestamp": 1781577363.5368938,
+    "processing_time_ms": 79.95,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577363.5485263
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 159,
+    "source_timestamp": 1781577362.8102937,
+    "processed_timestamp": 1781577363.0349557,
+    "processing_time_ms": 99.29,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577363.0445533
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 158,
+    "source_timestamp": 1781577362.3167992,
+    "processed_timestamp": 1781577362.6745005,
+    "processing_time_ms": 182.13,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577362.6811883
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 157,
+    "source_timestamp": 1781577361.8080077,
+    "processed_timestamp": 1781577362.481496,
+    "processing_time_ms": 587.77,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577362.490466
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 156,
+    "source_timestamp": 1781577361.301383,
+    "processed_timestamp": 1781577361.459857,
+    "processing_time_ms": 95.77,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577361.4704263
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 155,
+    "source_timestamp": 1781577360.8135464,
+    "processed_timestamp": 1781577360.976528,
+    "processing_time_ms": 118.19,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577360.9846323
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 154,
+    "source_timestamp": 1781577360.3077486,
+    "processed_timestamp": 1781577360.42003,
+    "processing_time_ms": 85.2,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577360.4290571
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 153,
+    "source_timestamp": 1781577359.7995224,
+    "processed_timestamp": 1781577360.2494783,
+    "processing_time_ms": 109.56,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577360.2562833
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 152,
+    "source_timestamp": 1781577359.3072975,
+    "processed_timestamp": 1781577359.758039,
+    "processing_time_ms": 125.13,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577359.7666526
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 151,
+    "source_timestamp": 1781577358.8033698,
+    "processed_timestamp": 1781577359.1890488,
+    "processing_time_ms": 83.7,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577359.2001405
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 150,
+    "source_timestamp": 1781577358.3094919,
+    "processed_timestamp": 1781577358.6826196,
+    "processing_time_ms": 89.96,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577358.690599
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 149,
+    "source_timestamp": 1781577357.7988436,
+    "processed_timestamp": 1781577358.1590116,
+    "processing_time_ms": 96.89,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577358.1697261
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 148,
+    "source_timestamp": 1781577357.3077834,
+    "processed_timestamp": 1781577357.675344,
+    "processing_time_ms": 124.21,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577357.6825008
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 147,
+    "source_timestamp": 1781577356.8026454,
+    "processed_timestamp": 1781577357.4111981,
+    "processing_time_ms": 83.4,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577357.4205518
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 146,
+    "source_timestamp": 1781577356.3083491,
+    "processed_timestamp": 1781577357.3201516,
+    "processing_time_ms": 282.29,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577357.3304095
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 145,
+    "source_timestamp": 1781577355.8042119,
+    "processed_timestamp": 1781577357.0126102,
+    "processing_time_ms": 1022.86,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577357.0240428
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 144,
+    "source_timestamp": 1781577355.2972598,
+    "processed_timestamp": 1781577355.681592,
+    "processing_time_ms": 212.17,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577355.6934226
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 143,
+    "source_timestamp": 1781577354.8075757,
+    "processed_timestamp": 1781577355.0488153,
+    "processing_time_ms": 93.86,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577355.0565963
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 142,
+    "source_timestamp": 1781577354.2936747,
+    "processed_timestamp": 1781577354.5358138,
+    "processing_time_ms": 119.76,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577354.5452256
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 141,
+    "source_timestamp": 1781577353.799147,
+    "processed_timestamp": 1781577354.0169344,
+    "processing_time_ms": 111.23,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577354.028266
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 140,
+    "source_timestamp": 1781577353.3063848,
+    "processed_timestamp": 1781577353.4853108,
+    "processing_time_ms": 93.12,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577353.4932585
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 139,
+    "source_timestamp": 1781577352.797467,
+    "processed_timestamp": 1781577352.9602547,
+    "processing_time_ms": 99.49,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577352.9693263
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 138,
+    "source_timestamp": 1781577352.3047636,
+    "processed_timestamp": 1781577352.4562845,
+    "processing_time_ms": 107.72,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577352.4650238
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 137,
+    "source_timestamp": 1781577351.7970045,
+    "processed_timestamp": 1781577352.0721684,
+    "processing_time_ms": 249.7,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577352.0855625
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 136,
+    "source_timestamp": 1781577351.2911167,
+    "processed_timestamp": 1781577351.434685,
+    "processing_time_ms": 139.04,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577351.4464946
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 135,
+    "source_timestamp": 1781577350.7987123,
+    "processed_timestamp": 1781577350.9026563,
+    "processing_time_ms": 120.53,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577350.9150867
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 134,
+    "source_timestamp": 1781577350.2895174,
+    "processed_timestamp": 1781577350.3296826,
+    "processing_time_ms": 78.0,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577350.3377738
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 133,
+    "source_timestamp": 1781577349.801005,
+    "processed_timestamp": 1781577349.8495502,
+    "processing_time_ms": 104.52,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577349.858197
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 132,
+    "source_timestamp": 1781577349.2896717,
+    "processed_timestamp": 1781577349.3083448,
+    "processing_time_ms": 95.12,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577349.3173769
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 131,
+    "source_timestamp": 1781577348.7977076,
+    "processed_timestamp": 1781577348.8361864,
+    "processing_time_ms": 126.24,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577348.8477325
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 130,
+    "source_timestamp": 1781577348.3003182,
+    "processed_timestamp": 1781577348.2978814,
+    "processing_time_ms": 111.85,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577348.308639
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 129,
+    "source_timestamp": 1781577347.794703,
+    "processed_timestamp": 1781577347.8508646,
+    "processing_time_ms": 191.7,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577347.8607438
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 128,
+    "source_timestamp": 1781577347.2977588,
+    "processed_timestamp": 1781577347.2404747,
+    "processing_time_ms": 96.74,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577347.2509053
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 127,
+    "source_timestamp": 1781577346.7890952,
+    "processed_timestamp": 1781577346.7426713,
+    "processing_time_ms": 134.55,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577346.751684
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 126,
+    "source_timestamp": 1781577346.2938,
+    "processed_timestamp": 1781577346.1947517,
+    "processing_time_ms": 110.59,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577346.2072778
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 125,
+    "source_timestamp": 1781577345.7847364,
+    "processed_timestamp": 1781577345.8240917,
+    "processing_time_ms": 280.5,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577345.8336167
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 124,
+    "source_timestamp": 1781577345.2970896,
+    "processed_timestamp": 1781577345.1386955,
+    "processing_time_ms": 109.4,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577345.1498516
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 123,
+    "source_timestamp": 1781577344.7883039,
+    "processed_timestamp": 1781577344.5834222,
+    "processing_time_ms": 92.23,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577344.5936732
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 122,
+    "source_timestamp": 1781577344.2821894,
+    "processed_timestamp": 1781577344.0563924,
+    "processing_time_ms": 101.08,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577344.0649178
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 121,
+    "source_timestamp": 1781577343.7908962,
+    "processed_timestamp": 1781577343.6593683,
+    "processing_time_ms": 225.19,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577343.6661525
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 120,
+    "source_timestamp": 1781577343.2825518,
+    "processed_timestamp": 1781577343.0014796,
+    "processing_time_ms": 102.99,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577343.0095274
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 119,
+    "source_timestamp": 1781577342.7870538,
+    "processed_timestamp": 1781577342.4830663,
+    "processing_time_ms": 109.15,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577342.4917357
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 118,
+    "source_timestamp": 1781577342.2796242,
+    "processed_timestamp": 1781577341.9404557,
+    "processing_time_ms": 102.61,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577341.9489822
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 117,
+    "source_timestamp": 1781577341.7876544,
+    "processed_timestamp": 1781577341.3935764,
+    "processing_time_ms": 78.53,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577341.402389
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 116,
+    "source_timestamp": 1781577341.280668,
+    "processed_timestamp": 1781577341.085529,
+    "processing_time_ms": 306.85,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577341.0984612
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 115,
+    "source_timestamp": 1781577340.7809474,
+    "processed_timestamp": 1781577340.5018957,
+    "processing_time_ms": 251.87,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577340.513833
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 114,
+    "source_timestamp": 1781577340.271701,
+    "processed_timestamp": 1781577340.0545204,
+    "processing_time_ms": 101.21,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577340.0628798
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 113,
+    "source_timestamp": 1781577339.7825935,
+    "processed_timestamp": 1781577339.937631,
+    "processing_time_ms": 232.35,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577339.9482994
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 112,
+    "source_timestamp": 1781577339.2748942,
+    "processed_timestamp": 1781577339.6922014,
+    "processing_time_ms": 1017.83,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577339.702466
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 111,
+    "source_timestamp": 1781577338.7836797,
+    "processed_timestamp": 1781577338.5434918,
+    "processing_time_ms": 382.74,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577338.5553265
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 110,
+    "source_timestamp": 1781577338.2727346,
+    "processed_timestamp": 1781577337.7353768,
+    "processing_time_ms": 110.04,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577337.7442217
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 109,
+    "source_timestamp": 1781577337.7802534,
+    "processed_timestamp": 1781577337.268894,
+    "processing_time_ms": 157.6,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577337.277536
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 108,
+    "source_timestamp": 1781577337.2770057,
+    "processed_timestamp": 1781577336.6949792,
+    "processing_time_ms": 109.02,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577336.7040107
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 107,
+    "source_timestamp": 1781577336.7674553,
+    "processed_timestamp": 1781577336.1409516,
+    "processing_time_ms": 84.95,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577336.1484973
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 106,
+    "source_timestamp": 1781577336.2750084,
+    "processed_timestamp": 1781577335.6488712,
+    "processing_time_ms": 107.61,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577335.6558878
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 105,
+    "source_timestamp": 1781577335.7714975,
+    "processed_timestamp": 1781577335.2590828,
+    "processing_time_ms": 245.13,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577335.267293
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 104,
+    "source_timestamp": 1781577335.2670665,
+    "processed_timestamp": 1781577334.6121304,
+    "processing_time_ms": 121.16,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577334.6211574
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 103,
+    "source_timestamp": 1781577334.7751374,
+    "processed_timestamp": 1781577334.0812707,
+    "processing_time_ms": 106.05,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577334.0910494
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 102,
+    "source_timestamp": 1781577334.2621531,
+    "processed_timestamp": 1781577333.543563,
+    "processing_time_ms": 101.26,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577333.5566006
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 101,
+    "source_timestamp": 1781577333.7688339,
+    "processed_timestamp": 1781577333.0317984,
+    "processing_time_ms": 106.62,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577333.0405798
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 100,
+    "source_timestamp": 1781577333.2618783,
+    "processed_timestamp": 1781577332.4982738,
+    "processing_time_ms": 101.27,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577332.5086615
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 99,
+    "source_timestamp": 1781577332.765944,
+    "processed_timestamp": 1781577331.9549146,
+    "processing_time_ms": 76.52,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577331.9627044
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 98,
+    "source_timestamp": 1781577332.2605312,
+    "processed_timestamp": 1781577331.4549353,
+    "processing_time_ms": 106.7,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577331.464197
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 96,
+    "source_timestamp": 1781577331.2708716,
+    "processed_timestamp": 1781577331.3786578,
+    "processing_time_ms": 94.57,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577331.3901849
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 97,
+    "source_timestamp": 1781577331.7624433,
+    "processed_timestamp": 1781577330.9278917,
+    "processing_time_ms": 100.29,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577330.9395273
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 95,
+    "source_timestamp": 1781577330.765305,
+    "processed_timestamp": 1781577330.685036,
+    "processing_time_ms": 181.68,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577330.695446
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 94,
+    "source_timestamp": 1781577330.2716424,
+    "processed_timestamp": 1781577330.4915912,
+    "processing_time_ms": 552.29,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577330.5011957
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 93,
+    "source_timestamp": 1781577329.7628853,
+    "processed_timestamp": 1781577329.495807,
+    "processing_time_ms": 89.59,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577329.5056655
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 92,
+    "source_timestamp": 1781577329.2719972,
+    "processed_timestamp": 1781577329.0281138,
+    "processing_time_ms": 133.22,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577329.0393655
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 91,
+    "source_timestamp": 1781577328.760356,
+    "processed_timestamp": 1781577328.4635923,
+    "processing_time_ms": 104.29,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577328.4737968
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 90,
+    "source_timestamp": 1781577328.2697518,
+    "processed_timestamp": 1781577327.9827116,
+    "processing_time_ms": 138.39,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577327.9919786
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 89,
+    "source_timestamp": 1781577327.7651246,
+    "processed_timestamp": 1781577327.4343476,
+    "processing_time_ms": 115.79,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577327.4414997
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 88,
+    "source_timestamp": 1781577327.257487,
+    "processed_timestamp": 1781577326.890954,
+    "processing_time_ms": 104.62,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577326.9020119
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 87,
+    "source_timestamp": 1781577326.7605488,
+    "processed_timestamp": 1781577326.3804028,
+    "processing_time_ms": 113.41,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577326.392841
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 86,
+    "source_timestamp": 1781577326.2698686,
+    "processed_timestamp": 1781577325.8357718,
+    "processing_time_ms": 84.78,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577325.8459947
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 85,
+    "source_timestamp": 1781577325.7604053,
+    "processed_timestamp": 1781577325.4740434,
+    "processing_time_ms": 253.35,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577325.4846795
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 84,
+    "source_timestamp": 1781577325.2659566,
+    "processed_timestamp": 1781577324.7941322,
+    "processing_time_ms": 91.47,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577324.806326
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 83,
+    "source_timestamp": 1781577324.7586145,
+    "processed_timestamp": 1781577324.3058255,
+    "processing_time_ms": 135.7,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577324.3179114
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 82,
+    "source_timestamp": 1781577324.2526195,
+    "processed_timestamp": 1781577323.7227592,
+    "processing_time_ms": 83.12,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577323.7318726
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 81,
+    "source_timestamp": 1781577323.7584472,
+    "processed_timestamp": 1781577323.2075007,
+    "processing_time_ms": 84.1,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577323.2153857
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 80,
+    "source_timestamp": 1781577323.2495286,
+    "processed_timestamp": 1781577323.0410585,
+    "processing_time_ms": 443.04,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577323.049161
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 79,
+    "source_timestamp": 1781577322.7650857,
+    "processed_timestamp": 1781577322.4347577,
+    "processing_time_ms": 346.5,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577322.447427
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 78,
+    "source_timestamp": 1781577322.255016,
+    "processed_timestamp": 1781577321.6970766,
+    "processing_time_ms": 143.88,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577321.7076132
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 77,
+    "source_timestamp": 1781577321.762741,
+    "processed_timestamp": 1781577321.1562483,
+    "processing_time_ms": 115.39,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577321.1664689
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 76,
+    "source_timestamp": 1781577321.257977,
+    "processed_timestamp": 1781577320.61853,
+    "processing_time_ms": 102.17,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577320.6296682
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 75,
+    "source_timestamp": 1781577320.7481694,
+    "processed_timestamp": 1781577320.0755498,
+    "processing_time_ms": 90.79,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577320.0836067
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 74,
+    "source_timestamp": 1781577320.246559,
+    "processed_timestamp": 1781577319.683354,
+    "processing_time_ms": 225.29,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577319.6944478
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 73,
+    "source_timestamp": 1781577319.7472012,
+    "processed_timestamp": 1781577319.0541024,
+    "processing_time_ms": 115.79,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577319.0665014
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 72,
+    "source_timestamp": 1781577319.2471416,
+    "processed_timestamp": 1781577318.5099776,
+    "processing_time_ms": 94.03,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577318.5209568
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 71,
+    "source_timestamp": 1781577318.7469308,
+    "processed_timestamp": 1781577317.9915643,
+    "processing_time_ms": 98.21,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577317.9985273
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 70,
+    "source_timestamp": 1781577318.2453299,
+    "processed_timestamp": 1781577317.4905531,
+    "processing_time_ms": 117.18,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577317.5026493
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 69,
+    "source_timestamp": 1781577317.7448812,
+    "processed_timestamp": 1781577316.9463685,
+    "processing_time_ms": 97.51,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577316.9574857
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 68,
+    "source_timestamp": 1781577317.24402,
+    "processed_timestamp": 1781577316.409979,
+    "processing_time_ms": 85.02,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577316.417356
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 67,
+    "source_timestamp": 1781577316.7433455,
+    "processed_timestamp": 1781577315.9164057,
+    "processing_time_ms": 113.02,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577315.9240446
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 66,
+    "source_timestamp": 1781577316.244877,
+    "processed_timestamp": 1781577315.9068425,
+    "processing_time_ms": 75.46,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577315.9145482
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 65,
+    "source_timestamp": 1781577315.7448692,
+    "processed_timestamp": 1781577315.5480711,
+    "processing_time_ms": 215.86,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577315.5636535
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 64,
+    "source_timestamp": 1781577315.2433326,
+    "processed_timestamp": 1781577314.904592,
+    "processing_time_ms": 113.49,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577314.912843
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 63,
+    "source_timestamp": 1781577314.7428732,
+    "processed_timestamp": 1781577314.367889,
+    "processing_time_ms": 99.84,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577314.375638
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 62,
+    "source_timestamp": 1781577314.2425017,
+    "processed_timestamp": 1781577313.8528395,
+    "processing_time_ms": 105.14,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577313.8617752
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 61,
+    "source_timestamp": 1781577313.7407885,
+    "processed_timestamp": 1781577313.3379269,
+    "processing_time_ms": 110.35,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577313.3500211
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 60,
+    "source_timestamp": 1781577313.2400413,
+    "processed_timestamp": 1781577312.7991178,
+    "processing_time_ms": 93.19,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577312.810149
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 59,
+    "source_timestamp": 1781577312.7408757,
+    "processed_timestamp": 1781577312.2873688,
+    "processing_time_ms": 97.37,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577312.2991343
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 58,
+    "source_timestamp": 1781577312.23884,
+    "processed_timestamp": 1781577311.7803056,
+    "processing_time_ms": 115.26,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577311.7889283
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 57,
+    "source_timestamp": 1781577311.7380965,
+    "processed_timestamp": 1781577311.2524362,
+    "processing_time_ms": 106.45,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577311.2612126
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 56,
+    "source_timestamp": 1781577311.237994,
+    "processed_timestamp": 1781577310.6976914,
+    "processing_time_ms": 74.08,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577310.7067325
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 55,
+    "source_timestamp": 1781577310.736774,
+    "processed_timestamp": 1781577310.2057335,
+    "processing_time_ms": 100.56,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577310.2144532
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 54,
+    "source_timestamp": 1781577310.2368293,
+    "processed_timestamp": 1781577309.6777363,
+    "processing_time_ms": 95.69,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577309.68761
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 53,
+    "source_timestamp": 1781577309.7360086,
+    "processed_timestamp": 1781577309.4933743,
+    "processing_time_ms": 427.99,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577309.5027518
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 52,
+    "source_timestamp": 1781577309.2356513,
+    "processed_timestamp": 1781577308.645374,
+    "processing_time_ms": 103.5,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577308.661411
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 51,
+    "source_timestamp": 1781577308.7351856,
+    "processed_timestamp": 1781577308.1280634,
+    "processing_time_ms": 106.62,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577308.137996
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 50,
+    "source_timestamp": 1781577308.2345939,
+    "processed_timestamp": 1781577307.6104956,
+    "processing_time_ms": 109.47,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577307.619706
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 49,
+    "source_timestamp": 1781577307.7336795,
+    "processed_timestamp": 1781577307.065123,
+    "processing_time_ms": 85.28,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577307.0734887
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 48,
+    "source_timestamp": 1781577307.2325444,
+    "processed_timestamp": 1781577306.595964,
+    "processing_time_ms": 69.41,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577306.6042507
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 47,
+    "source_timestamp": 1781577306.7314715,
+    "processed_timestamp": 1781577306.5161538,
+    "processing_time_ms": 377.26,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577306.5238643
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 46,
+    "source_timestamp": 1781577306.230975,
+    "processed_timestamp": 1781577306.1237197,
+    "processing_time_ms": 706.41,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577306.1354682
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 45,
+    "source_timestamp": 1781577305.7290637,
+    "processed_timestamp": 1781577305.3079708,
+    "processing_time_ms": 408.79,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577305.321479
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 44,
+    "source_timestamp": 1781577305.2299411,
+    "processed_timestamp": 1781577304.5051498,
+    "processing_time_ms": 127.19,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577304.5143445
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 43,
+    "source_timestamp": 1781577304.729752,
+    "processed_timestamp": 1781577304.003676,
+    "processing_time_ms": 144.22,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577304.0141997
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 42,
+    "source_timestamp": 1781577304.2290275,
+    "processed_timestamp": 1781577303.4243026,
+    "processing_time_ms": 88.85,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577303.433338
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 41,
+    "source_timestamp": 1781577303.7285256,
+    "processed_timestamp": 1781577302.9087875,
+    "processing_time_ms": 91.24,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577302.9175954
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 38,
+    "source_timestamp": 1781577302.2273257,
+    "processed_timestamp": 1781577302.6308892,
+    "processing_time_ms": 88.85,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577302.642365
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 40,
+    "source_timestamp": 1781577303.228269,
+    "processed_timestamp": 1781577302.4055495,
+    "processing_time_ms": 109.84,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577302.4129045
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 37,
+    "source_timestamp": 1781577301.7264569,
+    "processed_timestamp": 1781577302.1213536,
+    "processing_time_ms": 98.88,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577302.1305394
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 39,
+    "source_timestamp": 1781577302.7283602,
+    "processed_timestamp": 1781577301.9206197,
+    "processing_time_ms": 142.63,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577301.9295719
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 36,
+    "source_timestamp": 1781577301.2253997,
+    "processed_timestamp": 1781577301.6272318,
+    "processing_time_ms": 125.99,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577301.6381695
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 35,
+    "source_timestamp": 1781577300.725898,
+    "processed_timestamp": 1781577301.092772,
+    "processing_time_ms": 111.58,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577301.1016548
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 34,
+    "source_timestamp": 1781577300.2245858,
+    "processed_timestamp": 1781577300.5923727,
+    "processing_time_ms": 131.16,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577300.601367
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 33,
+    "source_timestamp": 1781577299.7246165,
+    "processed_timestamp": 1781577300.0466037,
+    "processing_time_ms": 105.21,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577300.055465
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 32,
+    "source_timestamp": 1781577299.223904,
+    "processed_timestamp": 1781577299.6765964,
+    "processing_time_ms": 172.02,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577299.6877882
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 31,
+    "source_timestamp": 1781577298.722948,
+    "processed_timestamp": 1781577299.490769,
+    "processing_time_ms": 590.23,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577299.5023565
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 30,
+    "source_timestamp": 1781577298.2222848,
+    "processed_timestamp": 1781577298.4878643,
+    "processing_time_ms": 110.06,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577298.4972572
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 29,
+    "source_timestamp": 1781577297.7223468,
+    "processed_timestamp": 1781577297.9599528,
+    "processing_time_ms": 103.48,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577297.971614
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 28,
+    "source_timestamp": 1781577297.2213933,
+    "processed_timestamp": 1781577297.4295347,
+    "processing_time_ms": 94.89,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577297.440812
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 27,
+    "source_timestamp": 1781577296.7210975,
+    "processed_timestamp": 1781577296.9204686,
+    "processing_time_ms": 104.1,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577296.9303648
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 26,
+    "source_timestamp": 1781577296.2213614,
+    "processed_timestamp": 1781577296.3887126,
+    "processing_time_ms": 94.95,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577296.398507
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 25,
+    "source_timestamp": 1781577295.720385,
+    "processed_timestamp": 1781577295.9303017,
+    "processing_time_ms": 155.91,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577295.9450402
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 24,
+    "source_timestamp": 1781577295.2197227,
+    "processed_timestamp": 1781577295.3374329,
+    "processing_time_ms": 88.29,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577295.346701
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 23,
+    "source_timestamp": 1781577294.718575,
+    "processed_timestamp": 1781577294.8228903,
+    "processing_time_ms": 94.57,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577294.831627
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 22,
+    "source_timestamp": 1781577294.2186522,
+    "processed_timestamp": 1781577294.3087842,
+    "processing_time_ms": 99.19,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577294.3192675
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 21,
+    "source_timestamp": 1781577293.718174,
+    "processed_timestamp": 1781577293.8019147,
+    "processing_time_ms": 113.44,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577293.810878
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 20,
+    "source_timestamp": 1781577293.217088,
+    "processed_timestamp": 1781577293.2666106,
+    "processing_time_ms": 100.91,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577293.274788
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 19,
+    "source_timestamp": 1781577292.7165518,
+    "processed_timestamp": 1781577292.739222,
+    "processing_time_ms": 94.99,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577292.7492456
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 18,
+    "source_timestamp": 1781577292.2168615,
+    "processed_timestamp": 1781577292.214224,
+    "processing_time_ms": 88.95,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577292.2265532
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 17,
+    "source_timestamp": 1781577291.7150877,
+    "processed_timestamp": 1781577291.7142415,
+    "processing_time_ms": 112.77,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577291.7250986
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 16,
+    "source_timestamp": 1781577291.215208,
+    "processed_timestamp": 1781577291.1827924,
+    "processing_time_ms": 100.79,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577291.1915033
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 15,
+    "source_timestamp": 1781577290.7142382,
+    "processed_timestamp": 1781577290.8521483,
+    "processing_time_ms": 70.63,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577290.861108
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 14,
+    "source_timestamp": 1781577290.2136033,
+    "processed_timestamp": 1781577290.7709079,
+    "processing_time_ms": 79.73,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577290.7784054
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 13,
+    "source_timestamp": 1781577289.71386,
+    "processed_timestamp": 1781577290.6848354,
+    "processing_time_ms": 187.21,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577290.6935623
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 12,
+    "source_timestamp": 1781577289.2135384,
+    "processed_timestamp": 1781577290.4907377,
+    "processing_time_ms": 123.87,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577290.5012326
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 11,
+    "source_timestamp": 1781577288.71336,
+    "processed_timestamp": 1781577290.3589323,
+    "processing_time_ms": 177.82,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577290.3704138
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 10,
+    "source_timestamp": 1781577288.2125223,
+    "processed_timestamp": 1781577290.1579075,
+    "processing_time_ms": 2232.05,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577290.1722891
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 9,
+    "source_timestamp": 1781577287.7110708,
+    "processed_timestamp": 1781577287.545743,
+    "processing_time_ms": 159.81,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577287.5569856
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 8,
+    "source_timestamp": 1781577287.2106962,
+    "processed_timestamp": 1781577286.9593377,
+    "processing_time_ms": 104.88,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577286.968023
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 7,
+    "source_timestamp": 1781577286.7112222,
+    "processed_timestamp": 1781577286.4226913,
+    "processing_time_ms": 95.2,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577286.4318848
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 6,
+    "source_timestamp": 1781577286.2099142,
+    "processed_timestamp": 1781577285.8806865,
+    "processing_time_ms": 84.59,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577285.8917599
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 5,
+    "source_timestamp": 1781577285.7096689,
+    "processed_timestamp": 1781577285.514226,
+    "processing_time_ms": 243.26,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577285.5253265
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 4,
+    "source_timestamp": 1781577285.2081757,
+    "processed_timestamp": 1781577284.8371887,
+    "processing_time_ms": 96.86,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577284.8484852
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 3,
+    "source_timestamp": 1781577284.7092483,
+    "processed_timestamp": 1781577284.3063734,
+    "processing_time_ms": 90.43,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577284.3176844
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 2,
+    "source_timestamp": 1781577284.207893,
+    "processed_timestamp": 1781577284.021031,
+    "processing_time_ms": 99.16,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577284.0295985
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 1,
+    "source_timestamp": 1781577283.7084067,
+    "processed_timestamp": 1781577283.913107,
+    "processing_time_ms": 117.26,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577283.9238832
+  },
+  {
+    "camera_id": "H26NG",
+    "frame_id": 0,
+    "source_timestamp": 1781577283.674972,
+    "processed_timestamp": 1781577283.7639854,
+    "processing_time_ms": 612.96,
+    "image_size": {
+      "width": 640,
+      "height": 480
+    },
+    "person_count": 0,
+    "boxes": [],
+    "stored_at": 1781577283.7834616
+  }
+]

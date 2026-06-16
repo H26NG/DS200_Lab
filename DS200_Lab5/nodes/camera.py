@@ -10,6 +10,10 @@ Chay (tu thu muc goc DS200_Lab5):
     python -m nodes.camera --source video.mp4  # dung video file
 """
 
+import sys
+import os
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+
 import argparse
 import base64
 import time
